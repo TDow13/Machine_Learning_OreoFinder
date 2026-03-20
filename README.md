@@ -3,7 +3,7 @@
 **Team Member:** Group 2
 
 **Team Members:**
-- Terrence Huang
+- Terrance Huang
 - Tyler Dow
 - Kelly Jiang
 - Emily Huang
