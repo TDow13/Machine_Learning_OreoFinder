@@ -23,5 +23,13 @@ classification task.
 
 ---
 
-## How to Run
+## Dataset
 
+From Kaggle and photos taken by team members of Oreo.
+
+---
+
+## How to Run 
+
+1. Install dependencies: pip install -r requirements.txt
+2. Run all cells
