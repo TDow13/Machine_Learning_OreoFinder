@@ -25,11 +25,13 @@ classification task.
 
 ## Dataset
 
-From Kaggle and photos taken by team members of Oreo.
+The Non-Oreo pictures are a dataset from Kaggle 
+(https://www.kaggle.com/datasets/crawford/cat-dataset) 
+and the Oreo dataset are photos taken by team members.
 
 ---
 
 ## How to Run 
 
-1. Install dependencies: pip install -r requirements.txt
-2. Run all cells
+1. Install dependencies/libraries: pip install -r requirements.txt
+2. Run all cells in order
