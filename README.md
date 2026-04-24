@@ -45,11 +45,10 @@ The split is 80/10/10 train-validation-test stratified.
 ## Preprocessing
 - Resize all images to 128 x 128
 - Data Augmentation to CNN
-- ToTensor & Flatten
-- PCA (95% var.)
+- HOG + PCA (95% var.) to LR & KNN
 - Standard Scaler
 
 ---
 
-## Results
-LR: 88% vs KNN: 96% vs CNN: 
+## Results (Accuracy)
+LR: 87.25% vs KNN: 95.98% vs CNN: 96.11%
